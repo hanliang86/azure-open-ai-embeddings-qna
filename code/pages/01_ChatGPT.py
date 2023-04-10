@@ -26,7 +26,7 @@ try:
     }
     st.set_page_config(layout="wide", menu_items=menu_items)
 
-    st.markdown("## Bring your own prompt")
+    st.markdown("## ChatGPT")
 
     llm_helper = LLMHelper()
 
